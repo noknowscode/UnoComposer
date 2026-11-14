@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `UnoComposer/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/UnoComposer) (private). This repository is archived and kept for its history.
+
 # Composer
 
 An Uno Platform desktop app that walks you through specifying a new Uno app layer by layer (intent, UX, architecture, design, interactions, data, implementation, scaffold) and exports the result as a bundle of Markdown files for a coding agent. Each layer can be refined with Anthropic's Messages API.
